@@ -84,10 +84,6 @@
 # 🐍 Contribution Snake Animation
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/dharmesh5011-coder/dharmesh5011-coder/output/github-contribution-grid-snake.svg"/>
-</p>
-## 🐍 Contribution Snake
-
 ![Snake animation](https://raw.githubusercontent.com/dharmesh5011-coder/dharmesh5011-coder/output/github-contribution-grid-snake.svg)
 
 </p>
