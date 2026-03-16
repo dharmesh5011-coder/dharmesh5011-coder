@@ -1,32 +1,125 @@
-<h1 align="center">Hi 👋, I'm Dharmesh Gurram</h1>
-<h3 align="center">Aspiring Machine Learning Engineer | Python • Machine Learning • Data Science</h3>
+<h1 align="center">Hi 👋, I'm Dharmesh</h1>
+<h3 align="center">Mechanical Engineer | AI & Machine Learning Developer | Problem Solver</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-- 🔭 I’m currently working **GATE Test Series Web App**
-
-- 🌱 I’m currently learning **Python, Machine Learning, Data Science, TensorFlow, Scikit-learn**
-
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
-
-- 🤝 I’m looking for help with **Building scalable ML models and deployment**
-
-- 💬 Ask me about **Mechanical Engineering, Problem Solving, Python Basics**
-
-- 📫 How to reach me **gurram5011@gmail.com**
-
-- ⚡ Fun fact **From solving mechanical equations to training ML models — I enjoy both worlds.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.topcoder.com/members/413006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="413006" height="30" width="40" /></a>
+<p align="center">
+Building intelligent systems, engineering solutions, and scalable AI tools.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dgurram207-dotcom&show_icons=true&locale=en&layout=compact" alt="dgurram207-dotcom" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dgurram207-dotcom&show_icons=true&locale=en" alt="dgurram207-dotcom" /></p>
+- 🎓 Mechanical Engineer (GATE Qualified)
+- 💼 Subject Matter Expert with **4+ years experience**
+- 🔬 Working on **AI, Automation & Engineering Solutions**
+- 🧠 Interested in **Machine Learning, Multi-Agent Systems & AI Tools**
+- 📚 Teaching engineering concepts through **TechSparkPro**
+- ⚡ Passion: **Solving complex engineering problems**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dgurram207-dotcom&" alt="dgurram207-dotcom" /></p>
+---
+
+## 🧠 Current Focus
+
+- AI Agents & Automation  
+- Machine Learning Projects  
+- Engineering Problem Solving  
+- Building SaaS AI Tools  
+- Open Source Contributions  
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### Web
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description |
+|------|-------------|
+| 🤖 AI Multi-Agent System | Intelligent automation agents working collaboratively |
+| 📊 Engineering Solver | Tool for solving engineering equations |
+| 🧠 ML Prediction Model | Machine learning model for predictive analytics |
+| 🌐 Portfolio Website | Interactive developer portfolio |
+
+---
+
+## 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOURPROFILE">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/YOURUSERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://youtube.com/YOURCHANNEL">
+<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+## ✨ Quote
+
+> "Engineering is the art of solving problems. AI is the future of solving them faster."
+
+---
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
+</p>
