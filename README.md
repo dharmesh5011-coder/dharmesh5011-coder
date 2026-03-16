@@ -1,11 +1,9 @@
 <!-- HERO BANNER -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dharmesh%20Gurram&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-  ## 🐍 Contribution Snake
-
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/dharmesh5011-coder/dharmesh5011-coder/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/dharmesh5011-coder/dharmesh5011-coder/output/github-contribution-grid-snake.svg)
 </p>
 
 <!-- TYPING ANIMATION -->
