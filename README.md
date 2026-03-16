@@ -1,71 +1,57 @@
 <!-- HERO BANNER -->
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dharmesh%20Gurram&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Dharmesh%20Gurram&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20|%20Mechanical%20Engineer%20|%20Problem%20Solver&descAlignY=65"/>
 </p>
+
 
 <!-- TYPING ANIMATION -->
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Mechanical+Engineer;AI+%26+Machine+Learning+Developer;Engineering+Problem+Solver;Building+Intelligent+Systems"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Developer;Machine+Learning+Engineer;Mechanical+Engineer;Building+Smart+Engineering+Systems"/>
+
 </p>
+
 
 ---
 
-# 👨‍💻 About Me
+# 🧠 About Me
 
 <img align="right" height="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 Mechanical Engineer (GATE Qualified)  
 💼 Subject Matter Expert with **4+ years experience**  
-🧠 Working on **Artificial Intelligence & Automation**  
+🧠 AI & Machine Learning Developer  
 ⚙ Passionate about **engineering problem solving**  
-📚 Teaching engineers through **TechSparkPro**  
+📚 Creator of **TechSparkPro**
 
-🚀 Currently focusing on:
+🚀 Currently working on:
 
 • AI Multi-Agent Systems  
 • Machine Learning Projects  
-• Automation Tools  
-• Engineering Simulation  
-• Open Source Development  
+• Engineering Automation Tools  
+• AI Powered Engineering Solutions
 
 ---
 
-# 🧠 AI & Programming Skills
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI / Machine Learning
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Web Development
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-# 📊 3D GitHub Statistics
+# ⚡ Tech Stack
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,sklearn,js,html,css,git,linux,vscode"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dharmesh5011-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmesh5011-coder&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -81,11 +67,22 @@
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 📈 3D Contribution Graph
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/dharmesh5011-coder/dharmesh5011-coder/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dharmesh5011-coder&theme=tokyonight"/>
+
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/dharmesh5011-coder/dharmesh5011-coder/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
@@ -94,18 +91,18 @@
 
 | Project | Description |
 |------|-------------|
-| 🤖 AI Multi Agent System | Intelligent AI agents collaborating automatically |
-| 📊 Engineering Solver | Solves mechanical engineering equations |
-| 🧠 Machine Learning Model | Prediction model using ML algorithms |
-| 🌐 Portfolio Website | Interactive developer portfolio |
+| 🤖 AI Multi-Agent System | Intelligent automation agents |
+| 📊 Engineering Solver | Tool for solving engineering equations |
+| 🧠 ML Prediction Model | Machine learning prediction system |
+| 🌐 AI Portfolio | Interactive AI developer portfolio |
 
 ---
 
-# 🌎 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/YOURUSERNAME">
+<a href="https://github.com/dharmesh5011-coder">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
 
@@ -121,16 +118,18 @@
 
 ---
 
-# 👀 Profile Views
+# 👀 Profile Visitors
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=dharmesh5011-coder&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:2c5364&height=120&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:203A43,100:2C5364&height=120&section=footer"/>
+
 </p>
