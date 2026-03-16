@@ -75,7 +75,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=dharmesh5011-coder&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -84,8 +84,8 @@
 # 🐍 Contribution Snake Animation
 
 <p align="center">
-![Snake animation](https://raw.githubusercontent.com/dharmesh5011-coder/dharmesh5011-coder/output/github-contribution-grid-snake.svg)
-
+<img src="https://raw.githubusercontent.com/dharmesh5011-coder/dharmesh5011-coder/output/github-contribution-grid-snake.svg"/>
+</p>
 </p>
 
 ---
